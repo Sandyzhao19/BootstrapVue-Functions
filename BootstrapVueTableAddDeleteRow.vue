@@ -54,7 +54,7 @@
 
 <script>
 export default {
-  name: "VueWorkoutTable",
+  name: "BootstrapVueTableAddDeleteRow",
   data() {
     return {
       exercises: [
