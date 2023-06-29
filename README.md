@@ -6,3 +6,6 @@ BootstrapVue table add and delete rows, validate the time field, select the exis
 
 ## SingleFieldInlineEdit.vue
 BootstrapVue single-field inline editing for title and description
+
+## FuzzySearchBar.vue
+BootstrapVue self-built fuzzy search bar which takes an example username list and search the input keyword
