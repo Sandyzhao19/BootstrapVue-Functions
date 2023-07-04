@@ -9,3 +9,6 @@ BootstrapVue single-field inline editing for title and description
 
 ## FuzzySearchBar.vue
 BootstrapVue self-built fuzzy search bar which takes an example username list and search the input keyword
+
+## NestedTable.vue
+BootstrapVue Table with an icon-toggling nested table using row-details
