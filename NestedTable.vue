@@ -51,6 +51,7 @@ export default {
     data() {
         return {
             tableModal: false,
+            _showDetails: true,
             tableItems: [
                 { name: 'John', age: 25 },
                 { name: 'Alice', age: 30 },
