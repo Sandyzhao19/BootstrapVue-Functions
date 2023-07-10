@@ -12,3 +12,6 @@ BootstrapVue self-built fuzzy search bar which takes an example username list an
 
 ## NestedTable.vue
 BootstrapVue Table with an icon-toggling nested table using row-details
+
+## Tags.vue
+Simple tags function with BootstrapVue
